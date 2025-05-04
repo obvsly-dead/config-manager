@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/config_server.dir/config_server_autogen/mocs_compilation.cpp.o CMakeFiles/config_server.dir/ConfigurationManager.cpp.o CMakeFiles/config_server.dir/main.cpp.o -o config_server  /usr/lib/x86_64-linux-gnu/libQt5DBus.so.5.15.3 /usr/lib/x86_64-linux-gnu/libQt5Core.so.5.15.3 
